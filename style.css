@@ -1,3 +1,35 @@
 body{
     background-color: aquamarine;
 }
+
+p{
+    font-size:  14px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+a.font-black{
+    color:black !important;
+}
+
+/*****************
+
+PROJECT
+
+********************/
+#Project{
+    margin: 60 px auto;
+    width: 80;
+}
+
+#project_h2{
+    text-align: center;
+}
+
+Project .card img {
+    width: 100;
+}
