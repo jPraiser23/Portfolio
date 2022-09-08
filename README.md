@@ -4,7 +4,7 @@ This portfolio is a small project using HTML / CSS and Bootstrap. I will be usin
 
 [Live Heroku Deployment](https://portfolio-yehya.herokuapp.com/) 
 #screenshot
-(![image](https://user-images.githubusercontent.com/49994693/189211681-31f1b3b1-7a54-486e-867c-d5b0788e461b.png))
+[image](https://user-images.githubusercontent.com/49994693/189211681-31f1b3b1-7a54-486e-867c-d5b0788e461b.png)
 
 ## Technologies Used
 * HTML
