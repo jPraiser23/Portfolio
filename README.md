@@ -2,8 +2,9 @@
 
 This portfolio is a small project using HTML / CSS and Bootstrap. I will be using this to show case my project !
 
-[Live Heroku Deployment](https://portfolio-hamedya.herokuapp.com/) 
-[Screen Shot](![image](https://user-images.githubusercontent.com/49994693/188284712-4eea130a-e063-41b4-99ba-6f9be300f157.png)
+[Live Heroku Deployment](https://portfolio-yehya.herokuapp.com/) 
+#screenshot
+![image](https://user-images.githubusercontent.com/49994693/189211681-31f1b3b1-7a54-486e-867c-d5b0788e461b.png)
 
 ## Technologies Used
 * HTML
